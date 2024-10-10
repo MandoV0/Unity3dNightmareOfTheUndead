@@ -46,13 +46,10 @@ public class GameManager : MonoBehaviour
             Vector3 spawnPosition = Vector3.zero;
             Quaternion spawnRotation = Quaternion.identity;
 
-            // Get a playerSpawn
-            if (PlayerSpawnManager.Instance)
-            {
-                Transform playerSpawn = PlayerSpawnManager.Instance.GetRandomPlayerSpawn();
-                spawnPosition = playerSpawn.position;
-                spawnRotation = playerSpawn.rotation;
-            }
+
+            Transform playerSpawn = PlayerSpawnManager.Instance.GetRandomPlayerSpawn();
+            spawnPosition = playerSpawn.position;
+            spawnRotation = playerSpawn.rotation;
             
             // Instantiate the player at the playerSpawn
             PlayerStats tmpPlayer = Instantiate(playerPrefab, spawnPosition, spawnRotation);
