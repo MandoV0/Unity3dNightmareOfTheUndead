@@ -5,3 +5,6 @@ https://www.youtube.com/watch?v=0fqnHpECjvY&t=55s
 
 Download:
 https://mandov4.itch.io/notu
+
+![Alt text]("https://github.com/MandoV0/Unity3dNightmareOfTheUndead/blob/main/Notu1.png")
+![Alt text]("https://github.com/MandoV0/Unity3dNightmareOfTheUndead/blob/main/Notu2.png")
