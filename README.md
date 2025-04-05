@@ -1,6 +1,6 @@
 # Unity3dNightmareOfTheUndead
-Wave FPS inspired by Call of duty Zombies
-Not all Code is included as some of it is unded a License
+Wave FPS inspired by Call of duty Zombies.
+Not all Code is included as some of it is under a License.
 
 https://www.youtube.com/watch?v=0fqnHpECjvY&t=55s
 
